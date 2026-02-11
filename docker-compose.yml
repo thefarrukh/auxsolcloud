@@ -1,0 +1,66 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: solis_db
+    environment:
+      - POSTGRES_DB=solar_db
+      - POSTGRES_USER=farrukh
+      - POSTGRES_PASSWORD=farrukh711
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    # Agar 5432 band bo'lsa, chap tomondagini "5433:5432" qiling
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:alpine
+    container_name: solis_redis
+    ports:
+      - "6379:6379"
+
+  web:
+    build: .
+    container_name: solis_web
+    command: >
+      sh -c "python manage.py migrate &&
+             python manage.py runserver 0.0.0.0:8001"
+    volumes:
+      - .:/app
+    ports:
+      - "8001:8001"
+    env_file:
+      - .env
+    depends_on:
+      - db
+      - redis
+
+  worker:
+    build: .
+    container_name: solis_worker
+    command: celery -A core worker -l info
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    depends_on:
+      - db
+      - redis
+      - web
+
+  beat:
+    build: .
+    container_name: solis_beat
+    command: celery -A core beat -l info
+    volumes:
+      - .:/app
+    env_file:
+      - .env
+    depends_on:
+      - db
+      - redis
+      - web
+
+volumes:
+  postgres_data:

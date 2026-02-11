@@ -1,0 +1,53 @@
+services:
+  # Django + Celery birgalikda
+  - type: web
+    name: solis-monitor-app
+    runtime: docker
+    plan: free
+    region: frankfurt # Yevropaga yaqinroq
+    envVars:
+      - key: DEBUG
+        value: "False"
+      - key: DB_HOST
+        fromDatabase:
+          name: solis-db
+          property: host
+      - key: DB_NAME
+        fromDatabase:
+          name: solis-db
+          property: database
+      - key: DB_USER
+        fromDatabase:
+          name: solis-db
+          property: user
+      - key: DB_PASSWORD
+        fromDatabase:
+          name: solis-db
+          property: password
+      - key: CELERY_BROKER_URL
+        fromService:
+          type: redis
+          name: solis-redis
+          property: connectionString
+      - key: CELERY_RESULT_BACKEND
+        fromService:
+          type: redis
+          name: solis-redis
+          property: connectionString
+      # Bularni Render Dashboard -> Environment qismida qo'lda kiriting:
+      - key: AUX_USER
+        sync: false
+      - key: AUX_PASS
+        sync: false
+      - key: AUXSOL_PLANT_ID
+        sync: false
+
+  # Redis
+  - type: redis
+    name: solis-redis
+    plan: free
+    ipAllowList: []
+
+databases:
+  - name: solis-db
+    plan: free

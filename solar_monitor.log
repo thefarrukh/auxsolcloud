@@ -1,0 +1,1494 @@
+WARNING 2026-02-09 11:35:00 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-09 11:35:00 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-09 11:35:01 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-09 11:35:01 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-09 11:35:01 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-09 11:35:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:35:34 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:35:34 token_handler get_valid_token:23    Expiry: 2026-02-10 11:35:31.631323+00:00
+INFO 2026-02-09 11:35:34 tasks sync_solar_data:30 ✅ Token olindi: 8a16dc45-7528-409e-b...
+INFO 2026-02-09 11:35:34 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:35:37 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:35:37 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:35:37 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:36:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:36:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:35:31.631323+00:00
+INFO 2026-02-09 11:36:01 tasks sync_solar_data:30 ✅ Token olindi: 8a16dc45-7528-409e-b...
+INFO 2026-02-09 11:36:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:36:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:36:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:36:04 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 11:37:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:37:04 token_handler get_valid_token:23    Expiry: 2026-02-10 11:35:31.631323+00:00
+INFO 2026-02-09 11:37:04 tasks sync_solar_data:30 ✅ Token olindi: 8a16dc45-7528-409e-b...
+INFO 2026-02-09 11:37:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:37:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:37:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:37:04 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 11:38:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:38:04 token_handler get_valid_token:23    Expiry: 2026-02-10 11:35:31.631323+00:00
+INFO 2026-02-09 11:38:04 tasks sync_solar_data:30 ✅ Token olindi: 8a16dc45-7528-409e-b...
+INFO 2026-02-09 11:38:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:38:05 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:38:05 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 11:38:05 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 11:40:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:40:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:39:58.299255+00:00
+INFO 2026-02-09 11:40:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:40:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:40:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:40:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:40:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:40:38 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:40:38 token_handler get_valid_token:23    Expiry: 2026-02-10 11:40:38.264747+00:00
+INFO 2026-02-09 11:40:38 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:40:38 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:40:39 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:40:39 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:40:39 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:41:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:41:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:40:38.264747+00:00
+INFO 2026-02-09 11:41:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:41:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:41:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:41:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:41:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 11:42:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:42:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:40:38.264747+00:00
+INFO 2026-02-09 11:42:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:42:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:42:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:42:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:42:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 11:42:10 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:42:10 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:42:10 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:42:10 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:42:13 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-09 11:42:13 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0100
+INFO 2026-02-09 11:42:13 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:43:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:43:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:43:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:43:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:43:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:43:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 11:43:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 11:43:47 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:43:47 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:43:47 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:43:47 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:43:48 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-09 11:43:48 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0100
+INFO 2026-02-09 11:43:48 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:45:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:45:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:45:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:45:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:45:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:45:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:45:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:46:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:46:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:46:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:46:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:46:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:46:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:46:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 11:47:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:47:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:47:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:47:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:47:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:47:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:47:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 11:48:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:48:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:48:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:48:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:48:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:48:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 11:48:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 11:50:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:50:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:50:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:50:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:50:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:50:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:50:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:51:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:51:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:51:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:51:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:51:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:51:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:51:02 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 11:52:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:52:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:52:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:52:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:52:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:52:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:52:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 11:53:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:53:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:53:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:53:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:53:06 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:53:06 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 11:53:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 11:55:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:55:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:55:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:55:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:55:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:55:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:55:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 11:56:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:56:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:56:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:56:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:56:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:56:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:56:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 11:57:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:57:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:57:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:57:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:57:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:57:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 11:57:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 11:58:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 11:58:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 11:58:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 11:58:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 11:58:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 11:58:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 11:58:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:00:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:00:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:00:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:00:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:00:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:00:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:00:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:01:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:01:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:01:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:01:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:01:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:01:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:01:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:02:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:02:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:02:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:02:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:02:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:02:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:02:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:03:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:03:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:03:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:03:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:03:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:03:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:03:03 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:03:44 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:03:44 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:03:44 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:03:44 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:03:45 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-09 12:03:45 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-09 12:03:45 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:05:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:05:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:05:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:05:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:05:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:05:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:05:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:06:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:06:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:06:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:06:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:06:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:06:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:06:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:07:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:07:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:07:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:07:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:07:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:07:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:07:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:08:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:08:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:08:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:08:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:08:06 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:08:06 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:08:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:10:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:10:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:10:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:10:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:10:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:10:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:10:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:11:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:11:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:11:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:11:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:11:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:11:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:11:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:12:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:12:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:12:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:12:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:12:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:12:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:12:04 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:13:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:13:04 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:13:04 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:13:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:13:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:13:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:13:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:15:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:15:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:15:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:15:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:15:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:15:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:15:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:16:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:16:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:16:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:16:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:16:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:16:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:16:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:17:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:17:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:17:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:17:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:17:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:17:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:17:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:18:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:18:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:18:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:18:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:18:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:18:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:18:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:20:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:20:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:20:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:20:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:20:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:20:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:20:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:21:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:21:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:21:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:21:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:21:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:21:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:21:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:22:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:22:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:22:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:22:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:22:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:22:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:22:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:23:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:23:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:23:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:23:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:23:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:23:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:23:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:25:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:25:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:25:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:25:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:25:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:25:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:25:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:26:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:26:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:26:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:26:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:26:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:26:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:26:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:27:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:27:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:27:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:27:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:27:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:27:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:27:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:28:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:28:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:28:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:28:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:28:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:28:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:28:03 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:30:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:30:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:30:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:30:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:30:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:30:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:30:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:31:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:31:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:31:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:31:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:31:05 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:31:05 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:31:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:32:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:32:05 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:32:05 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:32:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:32:09 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:32:09 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:32:09 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:33:09 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:33:09 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:33:09 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:33:09 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:33:09 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:33:09 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:33:09 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:35:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:35:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:35:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:35:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:35:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:35:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:35:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:36:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:36:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:36:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:36:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:36:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:36:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:36:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:37:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:37:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:37:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:37:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:37:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:37:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:37:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:38:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:38:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:38:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:38:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:38:08 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:38:08 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:38:08 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:40:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:40:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:40:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:40:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:40:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:40:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:40:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:41:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:41:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:41:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:41:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:41:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:41:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:41:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:42:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:42:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:42:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:42:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:42:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:42:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:42:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:43:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:43:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:43:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:43:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:43:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:43:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:43:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:45:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:45:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:45:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:45:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:45:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:45:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:45:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:46:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:46:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:46:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:46:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:46:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:46:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:46:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:47:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:47:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:47:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:47:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:47:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:47:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:47:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:48:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:48:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:48:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:48:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:48:04 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:48:04 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:48:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:50:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:50:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:50:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:50:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:50:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:50:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:50:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:51:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:51:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:51:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:51:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:51:03 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:51:03 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:51:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:52:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:52:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:52:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:52:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:52:05 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:52:05 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:52:05 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:53:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:53:05 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:53:05 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:53:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:53:05 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:53:05 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:53:05 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 12:55:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:55:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:55:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:55:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:55:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:55:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:55:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-09 12:56:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:56:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:56:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:56:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:56:00 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:56:00 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:56:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-09 12:57:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:57:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:57:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:57:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:57:01 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:57:01 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 12:57:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-09 12:58:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 12:58:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 12:58:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 12:58:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 12:58:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 12:58:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+ERROR 2026-02-09 12:58:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-09 13:00:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-09 13:00:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-09 13:00:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-09 13:00:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-09 13:00:02 tasks sync_solar_data:42 ❌ API'dan javob olmadi!
+ERROR 2026-02-09 13:00:02 tasks sync_solar_data:96 ❌ Xato: API'dan javob olmadi
+INFO 2026-02-09 13:00:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 04:59:29 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 04:59:29 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 04:59:29 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 04:59:29 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 04:59:33 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 04:59:33 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 04:59:33 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:00:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:00:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:00:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:00:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:00:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:00:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:00:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:00:23 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:00:23 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:00:23 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:00:23 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:00:26 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:00:26 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:00:26 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:00:33 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:00:33 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:00:33 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:00:33 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:00:35 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:00:35 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:00:35 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:01:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:01:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:01:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:01:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:01:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:01:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:01:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:01:35 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:01:35 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:01:35 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:01:35 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:01:38 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:01:38 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:01:38 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:02:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:02:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:02:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:02:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:02:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:02:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:02:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:02:38 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:02:38 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:02:38 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:02:38 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:02:41 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:02:41 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:02:41 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:03:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:03:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:03:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:03:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:03:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:03:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:03:01 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:05:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:05:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:05:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:05:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:05:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:05:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:05:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:06:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:06:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:06:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:06:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:06:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:06:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:06:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:07:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:07:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:07:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:07:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:07:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:07:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:07:06 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:08:06 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:08:06 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:08:06 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:08:06 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:08:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:08:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:08:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:10:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:10:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:10:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:10:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:10:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:10:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:10:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:11:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:11:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:11:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:11:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:11:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:11:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:11:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:12:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:12:01 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:12:01 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:12:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:12:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:12:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:12:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:13:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:13:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:13:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:13:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:13:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:13:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:13:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:15:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:15:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:15:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:15:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:15:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:15:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:15:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:16:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:16:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:16:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:16:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:16:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:16:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:16:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:17:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:17:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:17:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:17:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:17:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:17:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:17:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:18:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:18:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:18:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:18:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:18:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:18:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:18:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:20:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:20:00 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:20:00 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:20:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:20:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:20:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:20:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:21:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:21:02 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:21:02 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:21:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:21:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:21:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:21:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:22:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:22:03 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:22:03 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:22:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:22:08 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:22:08 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:22:08 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:23:08 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:23:08 token_handler get_valid_token:23    Expiry: 2026-02-10 11:42:10.723162+00:00
+INFO 2026-02-10 05:23:08 tasks sync_solar_data:30 ✅ Token olindi: 3f5f8bee-efb9-4da5-8...
+INFO 2026-02-10 05:23:08 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:23:11 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:23:11 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:23:11 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:24:54 token_handler get_valid_token:21 🔑 Token eskirgan yoki mavjud emas. Yangi login qilinmoqda...
+ERROR 2026-02-10 05:24:57 tasks sync_solar_data:38 ❌ Sync xatosi: Token olib bo'lmadi
+WARNING 2026-02-10 05:25:00 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:25:00 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:25:01 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:25:01 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:25:01 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:25:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+WARNING 2026-02-10 05:26:01 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:26:01 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:26:13 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:26:13 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:26:13 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:26:13 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+WARNING 2026-02-10 05:27:13 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:27:13 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:27:14 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:27:14 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:27:14 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:27:14 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+WARNING 2026-02-10 05:28:14 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:28:14 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:28:15 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:28:15 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:28:15 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+ERROR 2026-02-10 05:28:15 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+WARNING 2026-02-10 05:30:00 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:30:00 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:30:02 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:30:02 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:30:02 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:30:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+WARNING 2026-02-10 05:31:02 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:31:02 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:31:03 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:31:03 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:31:03 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:31:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+WARNING 2026-02-10 05:32:03 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:32:03 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:32:10 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:32:10 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:32:10 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:32:10 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+WARNING 2026-02-10 05:33:10 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:33:10 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:33:11 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:33:11 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:33:11 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+ERROR 2026-02-10 05:33:11 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+WARNING 2026-02-10 05:35:00 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:35:00 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:35:03 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:35:03 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:35:03 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:35:03 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+WARNING 2026-02-10 05:36:03 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:36:03 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:36:06 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:36:06 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:36:06 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:36:06 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+WARNING 2026-02-10 05:37:06 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:37:06 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:37:09 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:37:09 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:37:09 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:37:09 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+WARNING 2026-02-10 05:38:09 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:38:09 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:38:13 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:38:13 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:38:13 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+ERROR 2026-02-10 05:38:13 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+WARNING 2026-02-10 05:40:00 token_handler get_valid_token:29 ⚠️ Saqlangan token topilmadi
+INFO 2026-02-10 05:40:00 token_handler get_valid_token:32 🔑 Yangi token olinmoqda...
+ERROR 2026-02-10 05:40:00 token_handler get_valid_token:37 ❌ Login muvaffaqiyatsiz
+ERROR 2026-02-10 05:40:00 tasks sync_solar_data:27 ❌ Token olib bo'lmadi!
+ERROR 2026-02-10 05:40:00 tasks sync_solar_data:96 ❌ Xato: Token olish muvaffaqiyatsiz
+INFO 2026-02-10 05:40:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:41:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:41:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:40:57.844115+00:00
+INFO 2026-02-10 05:41:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:41:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:41:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:41:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:41:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+ERROR 2026-02-10 05:41:06 tasks sync_solar_data:38 ❌ Sync xatosi: API Xatosi: AWX-0400
+INFO 2026-02-10 05:42:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:42:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:40:57.844115+00:00
+INFO 2026-02-10 05:42:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:42:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:42:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:42:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:42:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+ERROR 2026-02-10 05:42:28 tasks sync_solar_data:38 ❌ Sync xatosi: API Xatosi: AWX-0400
+INFO 2026-02-10 05:43:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:43:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:43:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:43:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:43:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:43:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:43:03 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+ERROR 2026-02-10 05:43:17 tasks sync_solar_data:38 ❌ Sync xatosi: API Xatosi: AWX-0400
+INFO 2026-02-10 05:45:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:45:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:45:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:45:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:45:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:45:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:45:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:46:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:46:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:46:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:46:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:46:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:46:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:46:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:47:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:47:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:47:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:47:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:47:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:47:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:47:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:48:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:48:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:48:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:48:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:48:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:48:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:48:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:50:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:50:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:50:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:50:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:50:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:50:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:50:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:51:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:51:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:51:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:51:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:51:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:51:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:51:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:52:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:52:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:52:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:52:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:52:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:52:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:52:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:53:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:53:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:53:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:53:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:53:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:53:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:53:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 05:55:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:55:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:55:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:55:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:55:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:55:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:55:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 05:56:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:56:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:56:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:56:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:56:10 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:56:10 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:56:10 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 05:57:11 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:57:11 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:57:11 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:57:11 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:57:16 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:57:16 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 05:57:16 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 05:58:16 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 05:58:16 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 05:58:16 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 05:58:16 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 05:58:19 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 05:58:19 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 05:58:19 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:00:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:00:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:00:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:00:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:00:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:00:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:00:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:01:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:01:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:01:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:01:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:01:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:01:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:01:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:02:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:02:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:02:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:02:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:02:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:02:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:02:05 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:03:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:03:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:03:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:03:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:03:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:03:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:03:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:05:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:05:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:05:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:05:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:05:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:05:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:05:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:06:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:06:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:06:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:06:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:06:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:06:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:06:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:07:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:07:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:07:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:07:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:07:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:07:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:07:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:08:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:08:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:08:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:08:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:08:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:08:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:08:03 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:10:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:10:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:10:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:10:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:10:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:10:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:10:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:11:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:11:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:11:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:11:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:11:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:11:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:11:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:12:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:12:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:12:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:12:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:12:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:12:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:12:05 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:13:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:13:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:13:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:13:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:13:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:13:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:13:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:15:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:15:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:15:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:15:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:15:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:15:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:15:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:16:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:16:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:16:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:16:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:16:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:16:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:16:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:17:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:17:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:17:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:17:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:17:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:17:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:17:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:18:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:18:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:18:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:18:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:18:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:18:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:18:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:20:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:20:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:20:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:20:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:20:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:20:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:20:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:21:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:21:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:21:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:21:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:21:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:21:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:21:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:22:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:22:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:22:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:22:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:22:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:22:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:22:06 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:23:06 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:23:06 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:23:06 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:23:06 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:23:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:23:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:23:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:25:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:25:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:25:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:25:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:25:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:25:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:25:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:26:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:26:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:26:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:26:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:26:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:26:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:26:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:27:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:27:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:27:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:27:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:27:08 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:27:08 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:27:08 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:28:08 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:28:08 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:28:08 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:28:08 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:28:08 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:28:08 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:28:08 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:30:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:30:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:30:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:30:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:30:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:30:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:30:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:31:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:31:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:31:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:31:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:31:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:31:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:31:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:32:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:32:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:32:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:32:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:32:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:32:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:32:06 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:33:06 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:33:06 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:33:06 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:33:06 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:33:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:33:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:33:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:35:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:35:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:35:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:35:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:35:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:35:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:35:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:36:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:36:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:36:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:36:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:36:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:36:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:36:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:37:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:37:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:37:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:37:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:37:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:37:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:37:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:38:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:38:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:38:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:38:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:38:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:38:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:38:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:40:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:40:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:40:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:40:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:40:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:40:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:40:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:41:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:41:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:41:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:41:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:41:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:41:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:41:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:42:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:42:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:42:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:42:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:42:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:42:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:42:05 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:43:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:43:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:43:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:43:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:43:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:43:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:43:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:45:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:45:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:45:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:45:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:45:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:45:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:45:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:46:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:46:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:46:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:46:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:46:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:46:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:46:00 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:47:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:47:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:47:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:47:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:47:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:47:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:47:01 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:48:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:48:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:48:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:48:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:48:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:48:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:48:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:50:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:50:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:50:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:50:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:50:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:50:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:50:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:51:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:51:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:51:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:51:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:51:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:51:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:51:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:52:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:52:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:52:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:52:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:52:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:52:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:52:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:53:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:53:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:53:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:53:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:53:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:53:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:53:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 06:55:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:55:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:55:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:55:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:55:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:55:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:55:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 06:56:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:56:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:56:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:56:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:56:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:56:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:56:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 06:57:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:57:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:57:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:57:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:57:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:57:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 06:57:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 06:58:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 06:58:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 06:58:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 06:58:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 06:58:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 06:58:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 06:58:02 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 07:00:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 07:00:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 07:00:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 07:00:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 07:00:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 07:00:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 07:00:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:03:21 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:03:21 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:03:21 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:03:21 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:03:23 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:03:23 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:03:23 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:04:23 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:04:23 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:04:23 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:04:23 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:04:24 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:04:24 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:04:24 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:05:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:05:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:05:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:05:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:05:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:05:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:05:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:05:24 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:05:24 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:05:24 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:05:24 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:05:25 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:05:25 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:05:25 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:06:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:06:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:06:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:06:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:06:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:06:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:06:02 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:06:25 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:06:25 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:06:25 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:06:25 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:06:25 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:06:25 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:06:25 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:07:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:07:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:07:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:07:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:07:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:07:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:07:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:08:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:08:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:08:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:08:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:08:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:08:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:08:05 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:10:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:10:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:10:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:10:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:10:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:10:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:10:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:11:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:11:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:11:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:11:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:11:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:11:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:11:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:12:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:12:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:12:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:12:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:12:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:12:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:12:04 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:13:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:13:04 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:13:04 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:13:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:13:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:13:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:13:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:15:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:15:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:15:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:15:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:15:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:15:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:15:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:15:56 tasks sync_solar_data:21 🔄 Starting solar data sync...
+INFO 2026-02-10 08:15:56 token_handler get_valid_token:20 ✅ Using existing token (expires at 2026-02-11 05:42:20.601241+00:00)
+INFO 2026-02-10 08:15:56 tasks sync_solar_data:41 📡 Fetching solar data for plant 12973...
+ERROR 2026-02-10 08:15:57 tasks sync_solar_data:96 ❌ API Error [AWX-0400]: 登录状态已过期
+WARNING 2026-02-10 08:15:57 tasks sync_solar_data:100 ⚠️ Token expired, will retry with fresh token
+ERROR 2026-02-10 08:15:57 tasks sync_solar_data:107 🔥 Unexpected error in sync_solar_data: Token expired
+INFO 2026-02-10 08:15:57 tasks sync_solar_data:110 🔄 Retrying... (attempt 1/3)
+INFO 2026-02-10 08:16:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:16:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:16:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:16:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:16:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:16:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:16:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:17:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:17:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:17:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:17:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:17:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:17:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:17:05 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:18:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:18:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:18:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:18:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:18:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:18:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:18:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:18:33 tasks sync_solar_data:11 🔄 Yangi sessiya bilan solar data sinxronizatsiyasi boshlandi...
+INFO 2026-02-10 08:18:37 tasks sync_solar_data:17 ✅ Login muvaffaqiyatli!
+ERROR 2026-02-10 08:18:37 tasks sync_solar_data:35 ❌ API Xatosi: 登录状态已过期
+INFO 2026-02-10 08:19:46 tasks sync_solar_data:11 🔄 Yangi sessiya bilan solar data sinxronizatsiyasi boshlandi...
+INFO 2026-02-10 08:19:46 tasks sync_solar_data:17 ✅ Login muvaffaqiyatli!
+ERROR 2026-02-10 08:19:47 tasks sync_solar_data:35 ❌ API Xatosi: 登录状态已过期
+INFO 2026-02-10 08:20:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:20:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:20:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:20:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:20:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:20:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:20:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:21:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:21:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:21:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:21:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:21:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:21:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:21:03 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:22:03 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:22:03 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:22:03 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:22:03 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:22:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:22:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:22:04 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:23:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:23:04 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:23:04 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:23:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:23:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:23:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:23:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:25:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:25:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:25:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:25:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:25:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:25:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:25:01 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:26:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:26:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:26:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:26:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:26:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:26:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:26:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:27:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:27:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:27:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:27:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:27:08 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:27:08 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:27:08 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:27:15 tasks sync_solar_data:28 ✅ Ma'lumotlar bazaga yozildi: 8.34 kW
+INFO 2026-02-10 08:28:08 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:28:08 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:28:08 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:28:08 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:28:10 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:28:10 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:28:10 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:30:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:30:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:30:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:30:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:30:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:30:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:30:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:31:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:31:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:31:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:31:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:31:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:31:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:31:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:32:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:32:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:32:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:32:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:32:03 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:32:03 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:32:03 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:33:04 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:33:04 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:33:04 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:33:04 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:33:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:33:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:33:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:35:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:35:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:35:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:35:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:35:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:35:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:35:02 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:36:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:36:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:36:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:36:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:36:05 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:36:05 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:36:05 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:37:05 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:37:05 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:37:05 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:37:05 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:37:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:37:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:37:06 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:38:06 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:38:06 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:38:06 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:38:06 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:38:06 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:38:06 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:38:06 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 08:40:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:40:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:40:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:40:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:40:00 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:40:00 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:40:00 tasks sync_solar_data:101 🔄 1-chi urinish qilmoqda...
+INFO 2026-02-10 08:41:00 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:41:00 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:41:00 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:41:00 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:41:01 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:41:01 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:41:01 tasks sync_solar_data:101 🔄 2-chi urinish qilmoqda...
+INFO 2026-02-10 08:42:01 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:42:01 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:42:01 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:42:01 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:42:02 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:42:02 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+INFO 2026-02-10 08:42:02 tasks sync_solar_data:101 🔄 3-chi urinish qilmoqda...
+INFO 2026-02-10 08:43:02 token_handler get_valid_token:22 ✅ Saqlangan token ishlatilmoqda
+INFO 2026-02-10 08:43:02 token_handler get_valid_token:23    Expiry: 2026-02-11 05:42:20.601241+00:00
+INFO 2026-02-10 08:43:02 tasks sync_solar_data:30 ✅ Token olindi: bebe9091-7121-4c2a-a...
+INFO 2026-02-10 08:43:02 tasks sync_solar_data:36 🌿 Plant ID: 12973
+ERROR 2026-02-10 08:43:04 tasks sync_solar_data:48 ❌ API xatosi: Noma'lum xato
+ERROR 2026-02-10 08:43:04 tasks sync_solar_data:96 ❌ Xato: API xatosi: AWX-0400
+ERROR 2026-02-10 08:43:04 tasks sync_solar_data:104 ❌ 3 ta urinishdan keyin ham muvaffaq bo'lmadi
+INFO 2026-02-10 09:02:34 views get_statistics:111 ✅ Statistics: {'min_power': 2.14, 'max_power': 8.34, 'avg_power': 4.114285714285715, 'total_count': 7, 'latest_daily_yield': 18.75, 'latest_total_yield': 460.14}
+INFO 2026-02-10 09:02:55 views get_chart_data:41 ✅ Chart data qaytarildi: 7 ta nuqta
+INFO 2026-02-10 10:31:22 views get_statistics:111 ✅ Statistics: {'min_power': 1.31, 'max_power': 8.34, 'avg_power': 3.0896, 'total_count': 25, 'latest_daily_yield': 22.61, 'latest_total_yield': 464.02}
+WARNING 2026-02-11 05:58:54 log log_message:249 Not Found: /ad
+WARNING 2026-02-11 05:58:54 log log_message:249 "GET /ad HTTP/1.1" 404 2665
