@@ -1,18 +1,15 @@
 #!/bin/bash
 
-# 1. Ma'lumotlar bazasi jadvallarini yaratish
-echo "Migrating database..."
+# Ma'lumotlar bazasini tayyorlash
 python manage.py migrate --noinput
 
-# 2. Celery Worker-ni fonda (background) ishga tushirish
-echo "Starting Celery Worker..."
-celery -A core worker -l info &
+# Celery Beat-ni fonda ishga tushirish (yengil rejimda)
+celery -A core beat -l info --detach
 
-# 3. Celery Beat-ni ham fonda ishga tushirish
-echo "Starting Celery Beat..."
-celery -A core beat -l info &
+# Celery Worker-ni xotirani tejash rejimida ishga tushirish
+# --concurrency=1 bu faqat bitta jarayon ochadi (xotira tejaydi)
+celery -A core worker -l info --concurrency=1 --detach
 
-# 4. Djangoni asosiy jarayon sifatida ishga tushirish
-# Renderda port odatda 10000 bo'ladi, lekin biz 8001 ni ham ishlatsak bo'ladi
-echo "Starting Django Server..."
-python manage.py runserver 0.0.0.0:8001
+# Gunicorn (Web server) ni ishga tushirish
+# --workers 2 xotira uchun yetarli
+gunicorn core.wsgi:application --bind 0.0.0.0:$PORT --workers 2
