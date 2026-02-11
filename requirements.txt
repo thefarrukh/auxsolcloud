@@ -36,3 +36,5 @@ uritemplate==4.2.0
 urllib3==2.6.3
 vine==5.1.0
 wcwidth==0.5.3
+dj-database-url==2.1.0
+psycopg2-binary==2.9.9
